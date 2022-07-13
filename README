@@ -1,0 +1,8 @@
+This is my first Machine Learning code called 'Movie Recommendation'
+
+What it does is it compares the Summary/Overview of a movie, and if it somewhat relates to the description of a movie 
+on the .csv file, it will add it to the list.
+
+I still have a lot to improve on, but this is a good start!
+
+Gio Premiro
